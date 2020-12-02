@@ -1,5 +1,5 @@
 development:
-    url: yoursite.url
+    url: gopokedex.herokuapp.com
     database:
         type: mysql # mysql, postgresql, sqlite
         host: localhost
@@ -14,7 +14,7 @@ development:
         domain: your_domain
 
 production:
-    url: yoursite.url
+    url: gopokedex.herokuapp.com
     database:
         type: mysql # mysql, postgresql, sqlite
         host: localhost
